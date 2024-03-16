@@ -1,0 +1,5 @@
+Question Number,Question,Answer
+20-1, 1. **Question:** A particular number is written as 132 in radix-4 representation. The same number in radix-5 representation is?,**Answer:** (110)<sub>5</sub>
+20-2,,"2. **Question:** Consider a 3-stage pipelined processor having a delay of 10 ns (nanoseconds), 20 ns and 14 ns for the first, second, and the third stages, respectively. Assume that there is no other delay and the processor does not suffer from any pipeline hazards. Also assume that one instruction is fetched every cycle. The total execution time for executing 100 instructions on this processor is ____ ns.
+ **Answer:** (2040)"
+20-3,,"3. **Question:** A keyboard connected to a computer is used at a rate of 1 keystroke per second. The computer system polls the keyboard every 10 ms (milli seconds) to check for a keystroke and consumes 100 micro seconds for each poll. If it is determined after polling that a key has been pressed, the system consumes an additional 200 microseconds to process the keystroke. Let T<sub>1</sub> denote the fraction of a second spent in polling and processing a key"

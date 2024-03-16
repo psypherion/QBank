@@ -1,0 +1,42 @@
+ 1. **Question:** At least once before giving birth, of these women, 60% received medical care from doctors, while 40% received medical care from other healthcare providers. Given this information, which one of the following statements can be inferred with certainty?
+ **Answer:** More than half of the pregnant women received medical care at least once from a doctor.
+
+
+2. **Question:** Looking at the surface of a smooth 3-dimensional object from the outside, which one of the following options is TRUE?
+ **Answer:** The surface of the object must be concave everywhere.
+
+
+3. **Question:** 1. **Question:** Consider two functions of time \(t\):
+$$f(t) = 4t$$
+$$g(t) = 0.01t^2$$
+Now consider the following two statements:
+(i) For some \(t>0\), \(g(t) > f(t)\)
+(ii) For some \(t>0\), \(g(t) < f(t)\)
+Which one of the following options is TRUE for all \(t>0\)?
+(a) only (i) is correct
+(b) only 1. **Question:** What is the last date to register?
+**Answer:** 21st Feb, 2023
+
+
+2. **Question:** What is the test date?
+**Answer:** 27th Feb, 2023
+
+
+3. **Question:** What is the time duration?
+**Answer:** 45 Minutes
+
+
+4. **Question:** How many total questions are there?
+**Answer:** 50
+
+
+5. **Question:** What are the total marks?
+**Answer:** 100
+
+
+6. **Question:** Is there negative marking?
+**Answer:** Yes
+
+
+7. **Question:** What are the subjects?
+**Answer:** CE, ME, EE, EC, CS, CH
